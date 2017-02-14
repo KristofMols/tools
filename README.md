@@ -9,3 +9,6 @@ Because everybody needs a personal list of handy tools and configurations
 ## Vim
 - MacVim: [https://github.com/macvim-dev/macvim](https://github.com/macvim-dev/macvim)
 - spf13-vim: [http://vim.spf13.com/#vimrc](http://vim.spf13.com/#vimrc)
+
+## Fonts
+Monaco: [fonts/](fonts/)
