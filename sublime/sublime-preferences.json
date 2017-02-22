@@ -1,0 +1,31 @@
+{
+    "always_show_minimap_viewport": true,
+    "bold_folder_labels": true,
+    "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+    "font_face": "MonacoBSemi Bold",
+    "font_size": 14,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "line_padding_bottom": 3,
+    "line_padding_top": 3,
+    "material_theme_accent_orange": true,
+    "material_theme_accent_scrollbars": true,
+    "material_theme_bold_tab": true,
+    "material_theme_compact_sidebar": true,
+    "material_theme_contrast_mode": true,
+    "material_theme_tabs_separator": true,
+    "open_files_in_new_window": false,
+    "overlay_scroll_bars": "enabled",
+    "rulers":
+    [
+        300
+    ],
+    "tab_size": 4,
+    "theme": "Material-Theme-Darker.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "word_wrap": false
+}

@@ -12,3 +12,6 @@ Because everybody needs a personal list of handy tools and configurations
 
 ## Fonts
 Monaco: [fonts/](fonts/)
+
+## Sublime 3
+- Preferences : [sublime/sublime-preferences.json](sublime/sublime-preferences.json)
