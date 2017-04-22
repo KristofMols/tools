@@ -1,7 +1,7 @@
 {
     "always_show_minimap_viewport": true,
     "bold_folder_labels": true,
-    "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+    "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
     "font_face": "MonacoBSemi Bold",
     "font_size": 14,
     "highlight_line": true,
@@ -25,7 +25,7 @@
         300
     ],
     "tab_size": 4,
-    "theme": "Material-Theme-Darker.sublime-theme",
+    "theme": "Material-Theme-Palenight.sublime-theme",
     "translate_tabs_to_spaces": true,
     "word_wrap": false
 }
